@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "adminHabits",
+    "password": "Jeagers567Kaijus",
+    "database": "habits_db",
+    "host": "habits-db.c5ss0qu8u61i.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
